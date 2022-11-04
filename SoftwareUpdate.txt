@@ -1,1 +1,1 @@
-Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)

@@ -1,1 +1,1 @@
-fix predict with class filter
+fix for KeyError: 'epoch' (#48)

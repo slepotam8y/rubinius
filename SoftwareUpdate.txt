@@ -1,1 +1,1 @@
-ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
+Both Link Opening Options - Have both the Open in Background option and the Open in New Tab option available alongside each other

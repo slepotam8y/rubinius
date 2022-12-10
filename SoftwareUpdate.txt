@@ -1,1 +1,1 @@
-YOLOv8 INT8 TFLite Inference Example (#7317)
+Elaborate Train and Predict mode docs arguments (#8137)

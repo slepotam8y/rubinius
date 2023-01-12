@@ -1,1 +1,1 @@
-Add plot_images conf_thresh parameter (#8446)
+OBB: Fix when training on zip data (#8680)

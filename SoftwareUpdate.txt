@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+Add YouTube iframe loading=lazy (#8001)

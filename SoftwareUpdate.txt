@@ -1,1 +1,1 @@
-Add missing single-line docstrings (#8362)
+Pass callbacks to validator (#7320)

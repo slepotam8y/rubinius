@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+Fix Neural Magic links (#9144)

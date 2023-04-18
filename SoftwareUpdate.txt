@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Fix ONNX GPU inference bug (#6840)

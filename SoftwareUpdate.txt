@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)

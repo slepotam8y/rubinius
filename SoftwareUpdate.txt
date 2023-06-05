@@ -1,1 +1,1 @@
-Update Docs language dropdown height (#6927)
+Docs partial mdformat improvements (#7378)

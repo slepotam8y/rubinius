@@ -1,1 +1,1 @@
-Update CITATION.cff with cffinit corrections (#8658)
+Capitalize OBB acronym (#7383)

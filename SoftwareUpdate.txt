@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Add docstrings to new HUB functions (#7576)

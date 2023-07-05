@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+Fix PNNX ubuntu -> linux bug (#7050)

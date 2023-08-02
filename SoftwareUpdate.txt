@@ -1,1 +1,1 @@
-Add new @Retry() decorator (#7854)
+Update pyproject.toml and Docs (#7274)

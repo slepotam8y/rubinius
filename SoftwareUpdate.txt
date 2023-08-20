@@ -1,1 +1,1 @@
-ultralytics 8.1.10 MLFlow, OBB, TFLite and INT8 fixes (#8016)
+Add https://youtu.be/ie3vLUDNYZo and other YT videos in Docs (#8551)

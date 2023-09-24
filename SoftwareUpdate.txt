@@ -1,1 +1,1 @@
-Add TorchScript Docs Integrations Page (#8501)
+Fix TypeError in check_cfg() (#9245)

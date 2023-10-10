@@ -1,1 +1,1 @@
-Add new YOLOv8 OBB model metrics (#7379)
+ultralytics 8.0.235 YOLOv8 OBB train, val, predict and export (#4499)

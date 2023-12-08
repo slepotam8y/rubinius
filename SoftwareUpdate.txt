@@ -1,1 +1,1 @@
-Mkdocs updates (#8008)
+Merge pull request #22 from SkalskiP/patch-1

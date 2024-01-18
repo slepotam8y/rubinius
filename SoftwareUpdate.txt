@@ -1,1 +1,1 @@
-Add TorchScript Docs Integrations Page (#8501)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)

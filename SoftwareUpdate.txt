@@ -1,1 +1,1 @@
-Update Dockerfile for Raspberry Pi Support (#8123)
+Resize angle, count, and stage on keypoint number change (#7598)

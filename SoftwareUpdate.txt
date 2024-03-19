@@ -1,1 +1,1 @@
-Add CoreML Docs Integrations Page (#8063)
+Improve Docs Modes tables (#8266)

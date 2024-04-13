@@ -1,1 +1,1 @@
-ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
+ultralytics 8.1.10 MLFlow, OBB, TFLite and INT8 fixes (#8016)

@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+Update CITATION.cff with cffinit corrections (#8658)
